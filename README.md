@@ -1,2 +1,2 @@
 # HNC2
-One simple Home Network admin page.
+一个简单的家庭网络管理页面。
