@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	background-image: url(../images/dsm6_02.jpg);
+	background-image: url(./images/xxx.jpg); /*把xxx.jpg替换成你的背景图片名称*/
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
