@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	background-image: url(../images/xxx.jpg); /*Modify the name of your background image file (in the image folder)*/
+	background-image: url(./images/xxx.jpg); /*Modify the name of your background image file (in the image folder)*/
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
