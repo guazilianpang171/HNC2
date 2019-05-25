@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	background-image: url(../images/dsm6_02.jpg);
+	background-image: url(../images/xxx.jpg); /*Modify the name of your background image file (in the image folder)*/
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -16,7 +16,7 @@ body{
 icon.svg{
 	position:absolute;
 	left:50%;
-	margin-left: -128px;/*改成你svg宽度的一半*/
+	margin-left: -128px;/*Modify to half the width of your SVG icon*/
 	fill: #FFFFFF;
 }
 
@@ -40,7 +40,7 @@ p.center{
 }
  
 button.biaph{
-	background-color: deepskyblue; /* Green */
+	background-color: deepskyblue;
 	border: none;
 	color: black;
 	padding: 10px 24px;
@@ -52,7 +52,7 @@ button.biaph{
 }
 
 button.biaph_center{
-	background-color: deepskyblue; /* Green */
+	background-color: deepskyblue;
 	border: none;
 	color: black;
 	padding: 10px 24px;
